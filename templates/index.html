@@ -1,0 +1,66 @@
+{% extends "layout.html" %} {% block title %} ROLL {% endblock %} {% block
+body%}
+<br />
+<br />
+<br />
+
+<a href="{{url_for('index')}}" role="button">
+  <h1 class="mr-5 p-5">
+    Roueltte.py - {% if tag!="" %}Reset{%else%}Roll{% endif %}
+  </h1>
+</a>
+
+<div class="container col-lg-auto bg-purple text-center">
+  <form action="{{ url_for('index')}}" method="post" class="mr-2 p-5">
+    <div class="form-group">
+      <label for="Tags" class="sr-only">Search by tag</label>
+      <input
+        class="form-control"
+        name="tag"
+        id="Tags"
+        placeholder="Enter a tag"
+        list="tags"
+        value="{{tag}}"
+      />
+      <datalist id="tags">
+        {% for tag in tags %}
+        <option value="{{ tag }}">{% endfor %}</option>
+      </datalist>
+    </div>
+    {% if tag!="" %}
+        <a  class="btn btn-lg btn-primary" href="{{url_for('index')}}">
+
+            Reset         
+        </button>
+        </a>
+    {% endif %}
+
+    <button class="btn btn-primary btn-lg">
+      {% if tag!="" %}Re-Roll {{tag}}{%else%}Roll{% endif %}
+    </button>
+  </form>
+</div>
+
+{% if course["Name"] %}
+<div class="jumbotron">
+  <h1 class="display-4">{{course["Name"]}}</h1>
+  <p class="lead">
+    Completion Time: {{course["Duration"]}} hours over {{course["daily"]}} day{%
+    if course["daily"] > 0%}s{% endif %} 
+  </p>
+  <hr class="my-4" />
+  {% if course["rating"] %}
+  <p>Rating: {{course["rating"]}}/5</p>
+
+  {% endif %}
+  <p class="lead">
+    <a class="btn btn-primary btn-lg" href="{{course['url']}}" role="button"
+      >Learn This</a
+    >
+  </p>
+</div>
+{% endif %}
+
+<p class="mt-5 mb-3 text-muted text-center">&copy; 2020</p>
+
+{% endblock %}

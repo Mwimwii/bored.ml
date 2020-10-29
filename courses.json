@@ -1,0 +1,693 @@
+[
+  {
+    "Name": "Become a Python God 4 months",
+    "Tags": ["Python"],
+    "Duration": 73,
+    "url": "https://learning.oreilly.com/playlists/ba5190c2-d78d-484a-9875-812214b589dd/",
+    "rating": "4"
+  },
+
+  {
+    "Name": "Mapbox Unity 3D Essentials by Devslopes",
+    "Tags": ["Unity", "Game Developemnt"],
+    "Duration": 10,
+    "url": "https://www.udemy.com/course/mapbox-unity-3d-essentials/",
+    "rating": "4"
+  },
+
+  {
+    "Name": "Learning MEAN Stack by Building Real world Application",
+    "Tags": ["Web", "Javascript", "MongoDB"],
+    "Duration": 14,
+    "url": "https://www.udemy.com/course/learning-mean-stack-by-building-real-world-application"
+  },
+
+  {
+    "Name": "Javascript Essentials",
+    "Tags": ["Javascript"],
+    "Duration": 6.5,
+    "url": "https://www.udemy.com/course/javascript-essentials/"
+  },
+
+  {
+    "Name": "Build a Pet Hotel web app with React using ScaffoldHub",
+    "Tags": ["React", "NodeJS", "SQL", "MongoDB"],
+    "Duration": 7,
+    "url": "https://www.udemy.com/course/react-pet-hotel/"
+  },
+
+  {
+    "Name": "QuantConnect Boot Camp in Python",
+    "Tags": ["QuantConnect", "Finance", "Trading", "Python"],
+    "Duration": 2.5,
+    "url": "https://www.udemy.com/course/quantconnect-boot-camp-in-python/"
+  },
+
+  {
+    "Name": "Create a Weather Telegram Bot using NodeJS and Firebase Cloud Functions",
+    "Tags": ["Javascript", "Telegram", "Firebase"],
+    "Duration": 0.5,
+    "url": "https://www.udemy.com/course/telegram-firebase-bot/learn/lecture/13744316#overview"
+  },
+
+  {
+    "Name": "CSS animations. Learn CSS animation",
+    "Tags": ["Web Development", "CSS", "Animation"],
+    "Duration": 2.5,
+    "url": "https://www.udemy.com/course/css-animations-master-css-animations-within-3-hours/"
+  },
+
+  {
+    "Name": "Code your first game using Javascript in Canvas",
+    "Tags": ["Javascript", "Canvas", "Game Developemnt"],
+    "Duration": 2.5,
+    "url": "https://www.udemy.com/course/code-your-first-game/"
+  },
+
+  {
+    "Name": "Javascript Variable Lifecyles",
+    "Tags": ["Javascript"],
+    "Duration": 3,
+    "url": "https://www.udemy.com/course/javascript-variables-lifecycles/"
+  },
+
+  {
+    "Name": "React - The Complete Guide (incl. Hooks, React Router and Redux)",
+    "Tags": ["React", "React Hooks", "Redux"],
+    "Duration": 40,
+    "url": "https://learning.oreilly.com/videos/react-the/9781789132229"
+  },
+
+  {
+    "Name": "The Complete Node.js Developer Course (3rd Edition)",
+    "Tags": ["NodeJS"],
+    "Duration": 34,
+    "url": "https://learning.oreilly.com/videos/the-complete-node-js/9781789955071"
+  },
+
+  {
+    "Name": "A Complete CSS Flexbox Course and a Real World Website Project",
+    "Tags": ["CSS", "Flexbox"],
+    "Duration": 3,
+    "url": "https://learning.oreilly.com/videos/a-complete-css/9781838640484"
+  },
+
+  {
+    "Name": "Kubernetes Course from a DevOps guru",
+    "Tags": ["Kubernetes", "DevOps", "Docker"],
+    "Duration": 8,
+    "url": "https://learning.oreilly.com/videos/kubernetes-course-from/9781789806823"
+  },
+
+  {
+    "Name": "Advanced Laravel and Vue.js: Build a YouTube Clone",
+    "Tags": ["Laravel", "Vue.js"],
+    "Duration": 6,
+    "url": "https://learning.oreilly.com/videos/advanced-laravel-and/9781800200449"
+  },
+
+  {
+    "Name": "Create a PHP Login and Registration System from Scratch 2020",
+    "Tags": ["PHP", "Web Development"],
+    "Duration": 3,
+    "url": "https://learning.oreilly.com/videos/create-a-php/9781800569836"
+  },
+
+  {
+    "Name": "A Complete JSON AJAX API Course - Beginner to Professional",
+    "Tags": ["JSON", "AJAX"],
+    "Duration": 18,
+    "url": "https://learning.oreilly.com/videos/a-complete-json/9781789616873"
+  },
+
+  {
+    "Name": "Vulkan Programming",
+    "Tags": ["Graphics", "Vulkan"],
+    "Duration": 2.5,
+    "url": "https://learning.oreilly.com/videos/vulkan-programming/9781786460714"
+  },
+
+  {
+    "Name": "Solidity Smart Contracts: Build DApps in Ethereum Blockchain",
+    "Tags": ["Ethereum", "Solidity"],
+    "Duration": 5,
+    "url": "https://learning.oreilly.com/videos/solidity-smart-contracts/9781838989231"
+  },
+
+  {
+    "Name": "Gatsby JS: Build PWA Blog with GraphQL, React and WordPress",
+    "Tags": ["GatsbyJS", "GraphQL", "React", "Wordpress"],
+    "Duration": 4,
+    "url": "https://learning.oreilly.com/videos/gatsby-js-build/9781839217593"
+  },
+
+  {
+    "Name": "The Complete 2020 Ethereum and Solidity Developer Bootcamp",
+    "Tags": ["Ethereum", "Solidity"],
+    "Duration": 5.5,
+    "url": "https://learning.oreilly.com/videos/the-complete-2020/9781800201019"
+  },
+
+  {
+    "Name": "Assembly Programming for All Platforms, Learn to Code",
+    "Tags": ["Assembly"],
+    "Duration": 2,
+    "url": "https://learning.oreilly.com/videos/assembly-programming-for/9781838987541"
+  },
+
+  {
+    "Name": "The Little Elixir & OTP Guidebook Video Edition",
+    "Tags": ["Elixir", "OTP"],
+    "Duration": 6.5,
+    "url": "https://learning.oreilly.com/videos/the-little-elixir/9781633430112VE"
+  },
+
+  {
+    "Name": "Rust in Motion",
+    "Tags": ["Rust"],
+    "Duration": 4,
+    "url": "https://learning.oreilly.com/videos/rust-in-motion/10000MNLV201742"
+  },
+
+  {
+    "Name": "The Ultimate Flask Course",
+    "Tags": ["Python", "Flask", "Web Development"],
+    "Duration": 27,
+    "url": "https://learning.oreilly.com/videos/the-ultimate-flask/9781839219924"
+  },
+
+  {
+    "Name": "Bootstrap 4 From Scratch With 5 Projects",
+    "Tags": ["Bootstrap 4", "Web Development"],
+    "Duration": 11,
+    "url": "https://learning.oreilly.com/videos/bootstrap-4-from/9781789535457"
+  },
+
+  {
+    "Name": "API Testing with Postman",
+    "Tags": ["Postman"],
+    "Duration": 2,
+    "url": "https://learning.oreilly.com/videos/api-testing-with/9781789616569"
+  },
+
+  {
+    "Name": "CSS - The Complete Guide (incl. Flexbox, Grid and Sass)",
+    "Tags": ["CSS", "Flexbox"],
+    "Duration": 21,
+    "url": "https://learning.oreilly.com/videos/css-the/9781789954692"
+  },
+
+  {
+    "Name": "React Node FullStack - Social Network from Scratch to Deploy",
+    "Tags": ["React", "NodeJS", "Web Development"],
+    "Duration": 20,
+    "url": "https://learning.oreilly.com/videos/react-node-fullstack/9781800207400"
+  },
+
+  {
+    "Name": "Electron from Scratch: Build Desktop Applications with JavaScript",
+    "Tags": ["Electron", "Javascript"],
+    "Duration": 6,
+    "url": "https://learning.oreilly.com/videos/electron-from-scratch/9781800562516"
+  },
+
+  {
+    "Name": "PowerShell Core for SQL Server: Automating Your Transact-SQL Scripts",
+    "Tags": ["PowerShell", "SQL"],
+    "Duration": 1.5,
+    "url": "https://learning.oreilly.com/videos/powershell-core-for/9781484259900?"
+  },
+
+  {
+    "Name": "Getting Started with Windows Subsystem for Linux: Unlock the Power of Linux and Web Development from the Comfort of your Windows Desktop",
+    "Tags": ["Windows Subsystem", "Linux"],
+    "Duration": 1,
+    "url": "https://learning.oreilly.com/videos/getting-started-with/9781484257616"
+  },
+
+  {
+    "Name": "Learn Windows PowerShell in a Month of Lunches, Third Edition, Video Edition",
+    "Tags": ["PowerShell"],
+    "Duration": 11,
+    "url": "https://learning.oreilly.com/videos/learn-windows-powershell/9781617294167VE"
+  },
+
+  {
+    "Name": "Learning Splunk",
+    "Tags": ["Splunk", "Big Data"],
+    "Duration": 4,
+    "url": "https://learning.oreilly.com/videos/learning-splunk/9781789801002?"
+  },
+
+  {
+    "Name": "Learn JMETER from Scratch on Live Apps - Performance Testing",
+    "Tags": ["JMETER", "Web Development", "Analytics"],
+    "Duration": 10,
+    "url": "https://learning.oreilly.com/videos/learn-jmeter-from/9781838823351?"
+  },
+
+  {
+    "Name": "Hands-On Microservices with Python",
+    "Tags": ["Python", "Microservices"],
+    "Duration": 3,
+    "url": "https://learning.oreilly.com/videos/hands-on-microservices-with/9781789132045"
+  },
+
+  {
+    "Name": "Modern DevOps in Practice",
+    "Tags": ["DevOps", "Azure", "Docker"],
+    "Duration": 4.5,
+    "url": "https://learning.oreilly.com/videos/modern-devops-in/9781789138030"
+  },
+
+  {
+    "Name": "Complete Git Guide: Understand and Master Git and GitHub",
+    "Tags": ["Git", "Github"],
+    "Duration": 18,
+    "url": "https://learning.oreilly.com/videos/complete-git-guide/9781800209855"
+  },
+
+  {
+    "Name": "MERN Stack WhatsApp Clone",
+    "Tags": ["MongoDB", "NodeJS", "Express", "React"],
+    "Duration": 4,
+    "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+  },
+
+  {
+    "Name": "MERN Stack TikTok Clone",
+    "Tags": ["MongoDB", "NodeJS", "Express", "React"],
+    "Duration": 4,
+    "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+  },
+  {
+    "Name": "Facebook Clone with React",
+    "Tags": ["Web Development", "React"],
+    "Duration": 4,
+    "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+  },
+  {
+    "Name": "Airbnb Clone",
+    "Tags": ["Web Development", "React"],
+    "Duration": 3,
+    "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA  "
+  },
+
+  {
+    "Name": "Netflix Clone",
+    "Tags": ["Web Development", "React"],
+    "Duration": 3.5,
+    "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+  },
+
+  {
+    "Name": "Azure ML from Scratch",
+    "Tags": ["Azure", "Machine Learning", "Cloud"],
+    "Duration": 1,
+    "url": "https://www.udemy.com/course/learn-azure-machine-learning-from-scratch/"
+  },
+
+  {
+    "Name": "ARCore and Sceneform for Android Augmented Reality (Java)",
+    "Tags": ["Augemented Reality", "ARCore", "Android", "Java"],
+    "Duration": 2.5,
+    "url": "https://www.udemy.com/course/arcore-and-sceneform-for-android-ar"
+  },
+
+  {
+    "Name": "VanillaCartJs - ES6 Javascript Shopping Cart",
+    "Tags": ["Javascript", "Web Development"],
+    "Duration": 2.5,
+    "url": "https://www.udemy.com/course/es6-javascript-shopping-cart"
+  },
+
+  {
+    "Name": "Solidity Smart Contracts: Build DApps In Ethereum Blockchain",
+    "Tags": ["Solidity", "Ethereum", "Javascript", "Smart Contracts"],
+    "Duration": 5,
+    "url": "https://www.udemy.com/course/solidity-smart-contracts-build-dapps-in-ethereum-blockchain/"
+  },
+
+  {
+    "Name": "Fullstack React GraphQL TypeScript Tutorial",
+    "Tags": ["React", "GraphQL", "TypeScript", "Web Development"],
+    "Duration": 14,
+    "url": "https://www.youtube.com/watch?v=I6ypD7qv3Z8&t=189s"
+  },
+
+  {
+    "Name": "MongoDB - The Complete Developer’s Guide",
+    "Tags": ["MongoDB", "DBMS"],
+    "Duration": 16,
+    "url": "https://learning.oreilly.com/videos/mongodb-the/9781789954012"
+  },
+
+  {
+    "Name": "Build a Car Driving Game from Scratch using JavaScript",
+    "Tags": ["Javascript", "Game Developemnt"],
+    "Duration": 1,
+    "url": "https://learning.oreilly.com/videos/build-a-car/9781838824648"
+  },
+
+  {
+    "Name": "The Complete Self-Driving Car Course - Applied Deep Learning",
+    "Tags": ["Deep Learning", "Python"],
+    "Duration": 18,
+    "url": "https://learning.oreilly.com/videos/the-complete-self-driving/9781838829414"
+  },
+
+  {
+    "Name": "Track Any HTML5 Content with Custom SCORM",
+    "Tags": ["HTML", "E-Learning", "SCORM", "Learning Magement System"],
+    "Duration": 2,
+    "url": "https://learning.oreilly.com/videos/track-any-html5/9781800205208"
+  },
+
+  {
+    "Name": "Learn Javascript and HTML5 Canvas - Build a Paint App for Drawing",
+    "Tags": ["Javascript", "HTML", "Canvas"],
+    "Duration": 6,
+    "url": "https://learning.oreilly.com/videos/learn-javascript-and/9781838820091"
+  },
+
+  {
+    "Name": "Learn HTML5 Canvas Drawing with JavaScript in 1 hour",
+    "Tags": ["Javascript", "HTML", "Canvas"],
+    "Duration": 1,
+    "url": "https://learning.oreilly.com/videos/learn-html5-canvas/9781838982706/"
+  },
+
+  {
+    "Name": "HTML, CSS, and JavaScript – Build 6 Creative Projects",
+    "Tags": ["HTML", "CSS", "Javascript", "Web Development"],
+    "Duration": 6,
+    "url": "https://learning.oreilly.com/videos/html-css-and/9781800208186/"
+  },
+
+  {
+    "Name": "Django Rest Framework",
+    "Tags": ["Django", "Python", "REST", "Web Development"],
+    "Duration": 4,
+    "url": "https://learning.oreilly.com/videos/django-rest-framework/9781800207585/"
+  },
+
+  {
+    "Name": "Python Django Dev To Deployment",
+    "Tags": ["Django", "Python", "Web Development"],
+    "Duration": 11,
+    "url": "https://learning.oreilly.com/videos/python-django-dev/9781838641283/"
+  },
+
+  {
+    "Name": "Classic Computer Science Problems in Python Video Edition",
+    "Tags": ["Python", "Algorithms"],
+    "Duration": 5,
+    "url": "https://learning.oreilly.com/videos/classic-computer-science/9781617295980VE"
+  },
+
+  {
+    "Name": "High-Performance Computing with Python 3.x",
+    "Tags": ["Python", "Parrallel Programming"],
+    "Duration": 4,
+    "url": "https://learning.oreilly.com/videos/high-performance-computing-with/9781789956252/continue"
+  },
+
+  {
+    "Name": "Modern Python LiveLessons: Big Ideas and Little Code in Python",
+    "Tags": [
+      "Python",
+      "Data-Analytics",
+      "Machine Learning",
+      "Pub-Sub",
+      "REST",
+      "TDD"
+    ],
+    "Duration": 8,
+    "url": "https://learning.oreilly.com/videos/modern-python-livelessons/9780134743400"
+  },
+
+  {
+    "Name": "Build a Multiplayer Kart Racing Game in Unity 2019",
+    "Tags": ["Game Developemnt", "Unity"],
+    "Duration": 14,
+    "url": "https://learning.oreilly.com/videos/build-a-multiplayer/9781800200647"
+  },
+
+  {
+    "Name": "Beginning C++ Game Programming - Part 1+2",
+    "Tags": ["Game Developemnt", "C++"],
+    "Duration": 9,
+    "url": "https://learning.oreilly.com/videos/beginning-c-game/9781787284128"
+  },
+
+  {
+    "Name": "Vim Tutorial",
+    "Tags": ["Text Editor", "Vim"],
+    "Duration": 1,
+    "url": "https://www.youtube.com/watch?v=IiwGbcd8S7I"
+  },
+
+  {
+    "Name": "How to Build an E-commerce Website with Django and Python",
+    "Tags": ["Django", "Web Development", "Python", "E-Commerce"],
+    "Duration": 4.5,
+    "url": "https://www.youtube.com/watch?v=YZvRrldjf1Y"
+  },
+
+  {
+    "Name": "HTML5 & CSS Development: Learn How to Build a Professional Website | Udemy, Jordan Hudgens",
+    "Tags": ["HTML", "CSS", "Web Development"],
+    "Duration": 1.5,
+    "url": "https://www.youtube.com/watch?v=5bMdjkfvONE"
+  },
+
+  {
+    "Name": "Web Development Tutorial - JavaScript, HTML, CSS - Rock Paper Scissors Game",
+    "Tags": [
+      "Web Development",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "Game Developemnt"
+    ],
+    "Duration": 1.5,
+    "url": "https://www.youtube.com/watch?v=jaVNP3nIAv0"
+  },
+
+  {
+    "Name": "Create a Platformer Game with JavaScript - Full Tutorial",
+    "Tags": ["Game Developemnt", "Javascript"],
+    "Duration": 2.5,
+    "url": "https://www.youtube.com/watch?v=w-OKdSHRlfA"
+  },
+
+  {
+    "Name": "Write a Tetris game in JavaScript",
+    "Tags": ["Javascript", "Game Developemnt"],
+    "Duration": 1,
+    "url": "https://www.youtube.com/watch?v=H2aW5V46khA"
+  },
+
+  {
+    "Name": "How to Build Tetris in React - GameDev Tutorial (with React Hooks!)",
+    "Tags": ["React", "React Hooks", "Game Developemnt"],
+    "Duration": 2.5,
+    "url": "https://www.youtube.com/watch?v=ZGOaCxX8HIU"
+  },
+
+  {
+    "Name": "In-Depth React Tutorial: Build a Hotel Reservation Site (with Contentful and Netlify)",
+    "Tags": ["React", "Web Development", "Contentful", "Netlify"],
+    "Duration": 6,
+    "url": "https://www.youtube.com/watch?v=LXJOvkVYQqA"
+  },
+
+  {
+    "Name": "Build a Chat App - React Tutorial Course",
+    "Tags": ["React", "Web Development"],
+    "Duration": 1.5,
+    "url": "https://www.youtube.com/watch?v=jFNHerJqvFw"
+  },
+
+  {
+    "Name": "GraphQL Full Course - Novice to Expert",
+    "Tags": ["GraphQL"],
+    "Duration": 4,
+    "url": "https://www.youtube.com/watch?v=ed8SzALpx1Q"
+  },
+
+  {
+    "Name": "Learn the MERN Stack - Full Tutorial (MongoDB, Express, React, Node.js)",
+    "Tags": ["MongoDB", "Express", "React", "NodeJS"],
+    "Duration": 1.5,
+    "url": "https://www.youtube.com/watch?v=7CqJlxBYj-M"
+  },
+
+  {
+    "Name": "PERN Stack Course - Postgres, Express, React, and Node",
+    "Tags": ["PERN", "Postgres", "Express", "React", "NodeJS"],
+    "Duration": 1.5,
+    "url": "https://www.youtube.com/watch?v=ldYcgPKEZC8&"
+  },
+
+  {
+    "Name": "Learn React JS - Full Course for Beginners - Tutorial 2019",
+    "Tags": ["React"],
+    "Duration": 5,
+    "url": "https://www.youtube.com/watch?v=DLX62G4lc44"
+  },
+
+  {
+    "Name": "How to Build a RESTful API using Node, Express, and Mongo",
+    "Tags": ["REST", "NodeJS", "Express", "MongoDB"],
+    "Duration": 1.5,
+    "url": "https://www.youtube.com/watch?v=o3ka5fYysBM&"
+  },
+
+  {
+    "Name": "Learn Python by Building Five Games - Full Course",
+    "Tags": ["Python", "Game Developemnt"],
+    "Duration": 6.5,
+    "url": "https://www.youtube.com/watch?v=XGf2GcyHPhc&"
+  },
+
+  {
+    "Name": "How to Create a Custom WordPress Theme",
+    "Tags": ["Wordpress", "Web Development"],
+    "Duration": 2.5,
+    "url": "https://www.youtube.com/watch?v=-h7gOJbIpmo&"
+  },
+
+  {
+    "Name": "Learn Blazor and Build with Web Assembly - Your First Web Application with Blazor",
+    "Tags": ["Blazor", "Web Development", "Web Assembly"],
+    "Duration": 6.5,
+    "url": "https://www.youtube.com/watch?v=aqSinXoStAU&"
+  },
+
+  {
+    "Name": "Plan, Code, and Deploy a Startup in 2 Hours [Full Stack JavaScript Tutorial]",
+    "Tags": ["Javascript", "Web Development"],
+    "Duration": 2,
+    "url": "https://www.youtube.com/watch?v=lauywdXKEXI&"
+  },
+
+  {
+    "Name": "Python Django Web Framework - Full Course for Beginners",
+    "Tags": ["Python", "Django", "Web Development"],
+    "Duration": 4,
+    "url": "https://www.youtube.com/watch?v=F5mRW0jo-U4"
+  },
+
+  {
+    "Name": "React Tutorial: Build an e-commerce site from scratch using React and Netlify",
+    "Tags": ["React", "E-Commerce", "Netlify"],
+    "Duration": 6,
+    "url": "https://www.youtube.com/watch?v=wPQ1-33teR4"
+  },
+
+  {
+    "Name": "Express.js & Node.js Course for Beginners - Full Tutorial",
+    "Tags": ["Express", "NodeJS"],
+    "Duration": 2.5,
+    "url": "https://www.youtube.com/watch?v=G8uL0lFFoN0"
+  },
+
+  {
+    "Name": "Data Visualization with D3.js ",
+    "Tags": ["Data-Visualization", "D3.js"],
+    "Duration": 13,
+    "url": "https://www.youtube.com/watch?v=_8V5o2UHG0E&"
+  },
+
+  {
+    "Name": "Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers",
+    "Tags": ["Docker"],
+    "Duration": 2,
+    "url": "https://www.youtube.com/watch?v=fqMOX6JJhGo"
+  },
+
+  {
+    "Name": "Git and GitHub for Beginners - Crash Course",
+    "Tags": ["Git", "Github"],
+    "Duration": 1,
+    "url": "https://www.youtube.com/watch?v=RGOj5yH7evk"
+  },
+
+  {
+    "Name": "Laravel PHP Framework Tutorial - Full Course for Beginners",
+    "Tags": ["PHP", "Laravel", "Web Development"],
+    "Duration": 4.5,
+    "url": "https://www.youtube.com/watch?v=ImtZ5yENzgE"
+  },
+
+  {
+    "Name": "PHP Programming Language Tutorial ",
+    "Tags": ["PHP"],
+    "Duration": 4.5,
+    "url": "https://www.youtube.com/watch?v=OK_JCtrrv-c"
+  },
+
+  {
+    "Name": "SQL Tutorial - Full Database Course for Beginners",
+    "Tags": ["SQL"],
+    "Duration": 4.5,
+    "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY"
+  },
+
+  {
+    "Name": "Symfony PHP Framework Tutorial",
+    "Tags": ["Symfony", "PHP", "Web Development"],
+    "Duration": 3.5,
+    "url": "https://www.youtube.com/watch?v=Bo0guUbL5uo&"
+  },
+
+  {
+    "Name": "Learn Vue.js",
+    "Tags": ["Vue.js"],
+    "Duration": 3,
+    "url": "https://www.youtube.com/watch?v=4deVCNJq3qc"
+  },
+
+  {
+    "Name": "Spring Boot Tutorial for Beginners",
+    "Tags": ["Spring Boot", "Web Development"],
+    "Duration": 2,
+    "url": "https://www.youtube.com/watch?v=vtPkZShrvXQ"
+  },
+
+  {
+    "Name": "Spring Boot and Angular Tutorial - Build a Reddit Clone (Coding Project)",
+    "Tags": ["Spring Boot", "Angular", "Web Development"],
+    "Duration": 3,
+    "url": "https://www.youtube.com/watch?v=DKlTBBuc32c"
+  },
+
+  {
+    "Name": "Build a Chat Application using React, Redux, Redux-Saga, and Web Sockets - Tutorial",
+    "Tags": ["React", "Redux", "Redux-Saga", "Web Development"],
+    "Duration": 1.5,
+    "url": "https://www.youtube.com/watch?v=x_fHXt9V3zQ"
+  },
+
+  {
+    "Name": "Build a Quiz App From Scratch Using React Components | React Tutorial For Beginners | Knowledgehut",
+    "Tags": ["React", "Web Development"],
+    "Duration": 0.5,
+    "url": "https://www.youtube.com/watch?v=aq-fCtg_gG4"
+  },
+
+  {
+    "Name": "Learn Node.js - Full Tutorial for Beginners",
+    "Tags": ["NodeJS"],
+    "Duration": 3,
+    "url": "https://www.youtube.com/watch?v=RLtyhwFtXQA"
+  },
+
+  {
+    "Name": "Using APIs in React - Create a Recipe Application using React Router | React tutorial for beginners",
+    "Tags": ["React", "Web Development"],
+    "Duration": 1.5,
+    "url": "https://www.youtube.com/watch?v=PbJt7-a2274"
+  }
+]
