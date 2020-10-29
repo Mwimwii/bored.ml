@@ -6,7 +6,7 @@
 env/
 env*
 dist/
-build/
+# build/
 *.egg
 *.egg-info/
 _mailinglist
@@ -14,7 +14,7 @@ _mailinglist
 .cache/
 .pytest_cache/
 .idea/
-docs/_build/
+# docs/_build/
 .vscode
 
 # Coverage reports
